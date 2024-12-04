@@ -1,0 +1,5 @@
+Year, DOY: year and day of year
+Tavg: mean daily 2m air temperature [°C]
+Prec: cumulative daily rainfall [mm]
+Rh: mean daily relative humidity [%]
+cx: observed abundance of culex pipiens mosquitoes []
